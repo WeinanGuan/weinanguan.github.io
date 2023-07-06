@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9956501,
+  author={Guan, Weinan and He, Ziwen and Wang, Wei and Dong, Jing and Peng, Bo},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={Defending Against Deepfakes with Ensemble Adversarial Perturbation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1952-1958},
+  doi={10.1109/ICPR56361.2022.9956501}}
