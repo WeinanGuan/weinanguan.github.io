@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3503161.3547923,
+author = {He, Ziwen and Wang, Wei and Guan, Weinan and Dong, Jing and Tan, Tieniu},
+title = {Defeating DeepFakes via Adversarial Visual Reconstruction},
+year = {2022},
+isbn = {9781450392037},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3503161.3547923},
+doi = {10.1145/3503161.3547923},
+abstract = {Existing DeepFake detection methods focus on passive detection, i.e., they detect fake face images by exploiting the artifacts produced during DeepFake manipulation. These detection-based methods have their limitation that they only work for ex-post forensics but cannot erase the negative influences of DeepFakes. In this work, we propose a proactive framework for combating DeepFake before the data manipulations. The key idea is to find a well defined substitute latent representation to reconstruct target facial data, leading the reconstructed face to disable the DeepFake generation. To this end, we invert face images into latent codes with a well trained auto-encoder, and search the adversarial face embeddings in their neighbor with the gradient descent method. Extensive experiments on three typical DeepFake manipulation methods, facial attribute editing, face expression manipulation, and face swapping, have demonstrated the effectiveness of our method in different settings.},
+booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+pages = {2464–2472},
+numpages = {9},
+keywords = {deepfake, latent representations, adversarial attack, image forensics., proactive defense},
+location = {Lisboa, Portugal},
+series = {MM '22}
+}
