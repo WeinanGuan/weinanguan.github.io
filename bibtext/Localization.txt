@@ -1,0 +1,8 @@
+@misc{guan2023collaborative,
+      title={Collaborative Feature Learning for Fine-grained Facial Forgery Detection and Segmentation}, 
+      author={Weinan Guan and Wei Wang and Jing Dong and Bo Peng and Tieniu Tan},
+      year={2023},
+      eprint={2304.08078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
