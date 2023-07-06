@@ -1,0 +1,21 @@
+@InProceedings{10.1007/978-3-031-20497-5_33,
+author="Guan, Weinan
+and Wang, Wei
+and Dong, Jing
+and Peng, Bo
+and Tan, Tieniu",
+editor="Fang, Lu
+and Povey, Daniel
+and Zhai, Guangtao
+and Mei, Tao
+and Wang, Ruiping",
+title="Robust Face-Swap Detection Based on 3D Facial Shape Information",
+booktitle="Artificial Intelligence",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="404--415",
+abstract="Maliciously-manipulated images or videos - so-called deep fakes - especially face-swap images and videos have attracted more and more malicious attackers to discredit some key figures. Previous pixel-level artifacts based detection techniques always focus on some unclear patterns but ignore some available semantic clues. Therefore, these approaches show weak interpretability and robustness. In this paper, we propose a biometric information based method to fully exploit the appearance and shape feature for face-swap detection of key figures. The key aspect of our method is obtaining the inconsistency of 3D facial shape and facial appearance, and the inconsistency based clue offers natural interpretability for the proposed face-swap detection method. Experimental results show the superiority of our method in robustness on various laundering and cross-domain data, which validates the effectiveness of the proposed method.",
+isbn="978-3-031-20497-5"
+}
+
