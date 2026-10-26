@@ -1,5 +1,30 @@
 [
   {
+    "title": "PIVOT: Physics-Grounded Verification for AI-Generated Audio-Video Detection",
+    "authors": "Bo Zheng, Kangran Zhao, Xiaoyu Zhang, Weinan Guan, Zhiheng Li, Yize Chen, Haizhou Li, Qingshan Liu, Siwei Lyu, Baoyuan Wu",
+    "venue": "arXiv:2609.15562, 2026.",
+    "year": 2026,
+    "url": "https://arxiv.org/abs/2609.15562",
+    "id": "pivot",
+    "badge": "arXiv · Preprint",
+    "topic": "Multimodal detection",
+    "summary": "Verifies AI-generated audio-video through measurable physical quantities and consistency checks, with time-localized supporting evidence.",
+    "status": "preprint",
+    "pdf": "https://arxiv.org/pdf/2609.15562",
+    "figure": {
+      "image": "assets/papers/pivot-thumb.webp",
+      "full": "assets/papers/pivot.webp",
+      "caption": "Fig. 2 · PIVOT inference pipeline",
+      "kind": "figure",
+      "source": "https://arxiv.org/abs/2609.15562"
+    },
+    "public_release": {
+      "platform": "arXiv",
+      "id": "2609.15562",
+      "verified_on": "2026-10-26"
+    }
+  },
+  {
     "title": "Learning from Easy to Hard: Curriculum Meta-Learning for Few-Shot Node Classification",
     "authors": "Qilong Yan, Weinan Guan, Yifei Xing, Jingpu Duan, Jian Yin",
     "venue": "Information Sciences, 749: 123473, 2026.",
@@ -36,6 +61,31 @@
       "source": "https://doi.org/10.1109/TIFS.2026.3651948"
     },
     "status": "published"
+  },
+  {
+    "title": "DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection",
+    "authors": "Kangran Zhao, Yupeng Chen, Xiaoyu Zhang, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu",
+    "venue": "arXiv:2510.22622, 2025.",
+    "year": 2025,
+    "url": "https://arxiv.org/abs/2510.22622",
+    "id": "benchmark",
+    "badge": "arXiv · Preprint",
+    "topic": "Multimodal detection",
+    "summary": "A unified multimodal deepfake benchmark combines diverse audio-video forgery pipelines, five datasets and eleven detectors.",
+    "status": "preprint",
+    "pdf": "https://arxiv.org/pdf/2510.22622",
+    "figure": {
+      "image": "assets/papers/benchmark-thumb.webp",
+      "full": "assets/papers/benchmark.webp",
+      "caption": "Fig. 2 · Multimodal forgery pipeline",
+      "kind": "figure",
+      "source": "https://arxiv.org/abs/2510.22622"
+    },
+    "public_release": {
+      "platform": "arXiv",
+      "id": "2510.22622",
+      "verified_on": "2026-10-26"
+    }
   },
   {
     "title": "Maximum Entropy Adversarial Learning for Generalizable Forgery Detection",

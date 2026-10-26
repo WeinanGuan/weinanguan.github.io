@@ -13,7 +13,7 @@
       row.hidden = !match;
       if (match) visible++;
     });
-    count.textContent = `${visible} ${visible === 1 ? 'paper' : 'papers'}`;
+    count.textContent = `${visible} ${visible === 1 ? 'work' : 'works'}`;
     empty.hidden = visible !== 0;
   }
   search.addEventListener('input', filterPapers);
