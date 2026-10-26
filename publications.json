@@ -1,107 +1,252 @@
 [
   {
-    "title": "MAP-Mamba: Multi-Artifacts Perception Mamba for Generalizable Face Forgery Detection",
-    "authors": "Chi Wang, Ziwen He, Xinjue Hu, Weinan Guan, Wei Wang, Zhangjie Fu",
-    "venue": "IEEE Transactions on Information Forensics and Security (TIFS), 21: 1184–1197, 2026.",
-    "year": 2026,
-    "url": "https://doi.org/10.1109/TIFS.2026.3651948"
-  },
-  {
     "title": "Learning from Easy to Hard: Curriculum Meta-Learning for Few-Shot Node Classification",
     "authors": "Qilong Yan, Weinan Guan, Yifei Xing, Jingpu Duan, Jian Yin",
     "venue": "Information Sciences, 749: 123473, 2026.",
     "year": 2026,
-    "url": "https://doi.org/10.1016/j.ins.2026.123473"
+    "url": "https://doi.org/10.1016/j.ins.2026.123473",
+    "id": "grade",
+    "badge": "Information Sciences",
+    "topic": "Graph learning",
+    "summary": "An easy-to-hard curriculum and difficulty-aware task construction improve meta-learning for few-shot node classification.",
+    "figure": {
+      "image": "assets/papers/grade-thumb.webp",
+      "full": "assets/papers/grade.webp",
+      "caption": "Fig. 3 · GRADE framework (author manuscript)",
+      "kind": "figure",
+      "source": "https://doi.org/10.1016/j.ins.2026.123473"
+    },
+    "status": "published"
   },
   {
-    "title": "PIVOT: Physics-Grounded Verification for AI-Generated Audio-Video Detection",
-    "authors": "Bo Zheng, Kangran Zhao, Xiaoyu Zhang, Weinan Guan, Zhiheng Li, Yize Chen, Haizhou Li, Qingshan Liu, Siwei Lyu, Baoyuan Wu",
-    "venue": "arXiv:2609.15562, 2026.",
+    "title": "MAP-Mamba: Multi-Artifacts Perception Mamba for Generalizable Face Forgery Detection",
+    "authors": "Chi Wang, Ziwen He, Xinjue Hu, Weinan Guan, Wei Wang, Zhangjie Fu",
+    "venue": "IEEE Transactions on Information Forensics and Security (TIFS), 21: 1184–1197, 2026.",
     "year": 2026,
-    "url": "https://arxiv.org/abs/2609.15562"
-  },
-  {
-    "title": "Noise-Informed Diffusion-Generated Image Detection with Anomaly Attention",
-    "authors": "Weinan Guan, Wei Wang, Bo Peng, Ziwen He, Jing Dong, Haonan Cheng",
-    "venue": "IEEE Transactions on Information Forensics and Security (TIFS), 20: 5256–5268, 2025.",
-    "year": 2025,
-    "url": "https://doi.org/10.1109/TIFS.2025.3573161"
-  },
-  {
-    "title": "Towards Reliable Deepfake Detection from Uncertainty Calibration Perspective",
-    "authors": "Xiaoxu Jin, Weinan Guan, Wei Wang, Jing Dong",
-    "venue": "Visual Intelligence, 3: 28, 2025.",
-    "year": 2025,
-    "url": "https://doi.org/10.1007/s44267-025-00100-2"
-  },
-  {
-    "title": "Unlocking a New Paradigm in Robustness for Multi-Step Facial Forgery Detection",
-    "authors": "Shutiao Luo, Weinan Guan, Linna Zhou, Jing Dong",
-    "venue": "IEEE International Conference on Image Processing (ICIP), pp. 779–784, 2025.",
-    "year": 2025,
-    "url": ""
+    "url": "https://doi.org/10.1109/TIFS.2026.3651948",
+    "id": "mapmamba",
+    "badge": "TIFS",
+    "topic": "Generalization",
+    "summary": "Multi-artifact perception with a Mamba backbone learns complementary forgery cues for cross-dataset face forgery detection.",
+    "figure": {
+      "image": "assets/papers/mapmamba-thumb.webp",
+      "full": "assets/papers/mapmamba.webp",
+      "caption": "Fig. 2 · MAP-Mamba framework (author manuscript)",
+      "kind": "figure",
+      "source": "https://doi.org/10.1109/TIFS.2026.3651948"
+    },
+    "status": "published"
   },
   {
     "title": "Maximum Entropy Adversarial Learning for Generalizable Forgery Detection",
     "authors": "Hongxing Fan, Jiangtao Wu, Weinan Guan, Lu Sheng",
     "venue": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), pp. 298–312, 2025.",
     "year": 2025,
-    "url": ""
+    "url": "https://doi.org/10.1007/978-981-95-5628-1_21",
+    "id": "mea",
+    "badge": "PRCV",
+    "topic": "Generalization",
+    "summary": "Maximum-entropy adversarial learning encourages method-agnostic forgery features, supported by contrastive learning and feature augmentation.",
+    "figure": {
+      "image": "assets/papers/mea.svg",
+      "full": "assets/papers/mea.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://doi.org/10.1007/978-981-95-5628-1_21"
+    },
+    "status": "published"
   },
   {
-    "title": "DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection",
-    "authors": "Kangran Zhao, Yupeng Chen, Xiaoyu Zhang, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu",
-    "venue": "arXiv:2510.22622, 2025.",
+    "title": "Unlocking a New Paradigm in Robustness for Multi-Step Facial Forgery Detection",
+    "authors": "Shutiao Luo, Weinan Guan, Linna Zhou, Jing Dong",
+    "venue": "IEEE International Conference on Image Processing (ICIP), pp. 779–784, 2025.",
     "year": 2025,
-    "url": "https://arxiv.org/abs/2510.22622"
+    "url": "https://cmsworkshops.com/ICIP2025/view_paper.php?PaperNum=1726",
+    "id": "multistep",
+    "badge": "ICIP",
+    "topic": "Robustness",
+    "summary": "Investigates the robustness of facial forgery detection when a face undergoes multiple manipulation steps.",
+    "figure": {
+      "image": "assets/papers/multistep.svg",
+      "full": "assets/papers/multistep.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://cmsworkshops.com/ICIP2025/view_paper.php?PaperNum=1726"
+    },
+    "status": "published"
+  },
+  {
+    "title": "Towards Reliable Deepfake Detection from Uncertainty Calibration Perspective",
+    "authors": "Xiaoxu Jin, Weinan Guan, Wei Wang, Jing Dong",
+    "venue": "Visual Intelligence, 3: 28, 2025.",
+    "year": 2025,
+    "url": "https://doi.org/10.1007/s44267-025-00100-2",
+    "id": "reliability",
+    "badge": "Visual Intelligence",
+    "topic": "Reliability",
+    "summary": "Studies uncertainty calibration and packed ensembles to make deepfake detection confidence more reliable on unfamiliar content.",
+    "figure": {
+      "image": "assets/papers/reliability-thumb.webp",
+      "full": "assets/papers/reliability.webp",
+      "caption": "Fig. 2 · Packed-ensembles detection pipeline",
+      "kind": "figure",
+      "source": "https://doi.org/10.1007/s44267-025-00100-2"
+    },
+    "status": "published"
+  },
+  {
+    "title": "Noise-Informed Diffusion-Generated Image Detection with Anomaly Attention",
+    "authors": "Weinan Guan, Wei Wang, Bo Peng, Ziwen He, Jing Dong, Haonan Cheng",
+    "venue": "IEEE Transactions on Information Forensics and Security (TIFS), 20: 5256–5268, 2025.",
+    "year": 2025,
+    "url": "https://doi.org/10.1109/TIFS.2025.3573161",
+    "id": "nasa",
+    "badge": "TIFS",
+    "topic": "Generalization",
+    "summary": "Noise-aware attention combines image content and residual signals to detect diffusion-generated images beyond familiar generators.",
+    "figure": {
+      "image": "assets/papers/nasa-thumb.webp",
+      "full": "assets/papers/nasa.webp",
+      "caption": "Fig. 3 · NASA-Swin framework",
+      "kind": "figure",
+      "source": "https://doi.org/10.1109/TIFS.2025.3573161"
+    },
+    "pdf": "https://arxiv.org/pdf/2506.16743",
+    "code": "https://github.com/WeinanGuan/NASA-Swin",
+    "status": "published"
   },
   {
     "title": "Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization",
     "authors": "Weinan Guan, Wei Wang, Jing Dong, Bo Peng",
     "venue": "IEEE Transactions on Information Forensics and Security (TIFS), 19: 5345–5356, 2024.",
     "year": 2024,
-    "url": "https://doi.org/10.1109/TIFS.2024.3396064"
+    "url": "https://doi.org/10.1109/TIFS.2024.3396064",
+    "id": "igr",
+    "badge": "TIFS",
+    "topic": "Generalization",
+    "summary": "Gradient regularization reduces sensitivity to forgery-specific textures; a perturbation injection module makes training practical.",
+    "figure": {
+      "image": "assets/papers/igr.svg",
+      "full": "assets/papers/igr.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://doi.org/10.1109/TIFS.2024.3396064"
+    },
+    "status": "published"
   },
   {
     "title": "ST-SBV: Spatial-Temporal Self-Blended Videos for Deepfake Detection",
     "authors": "Weinan Guan, Wei Wang, Bo Peng, Jing Dong, Tieniu Tan",
     "venue": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), pp. 274–288, 2024.",
     "year": 2024,
-    "url": ""
+    "url": "https://doi.org/10.1007/978-981-97-8620-6_19",
+    "id": "stsbv",
+    "badge": "PRCV",
+    "topic": "Generalization",
+    "summary": "Self-blended videos simulate spatial and temporal forgery artifacts, providing training signals for unseen video manipulations.",
+    "figure": {
+      "image": "assets/papers/stsbv.svg",
+      "full": "assets/papers/stsbv.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://doi.org/10.1007/978-981-97-8620-6_19"
+    },
+    "status": "published"
   },
   {
     "title": "Collaborative Feature Learning for Fine-grained Facial Forgery Detection and Segmentation",
     "authors": "Weinan Guan, Wei Wang, Jing Dong, Bo Peng, Tieniu Tan",
-    "venue": "arXiv:2304.08078, 2023.",
-    "year": 2023,
-    "url": "https://arxiv.org/abs/2304.08078"
+    "venue": "IEEE International Joint Conference on Biometrics (IJCB), 2022.",
+    "year": 2022,
+    "url": "https://arxiv.org/abs/2304.08078",
+    "id": "cfl",
+    "badge": "IJCB",
+    "topic": "Localization",
+    "summary": "Jointly learns facial manipulation detection and pixel-level segmentation to identify both forged content and its location.",
+    "figure": {
+      "image": "assets/papers/cfl-thumb.webp",
+      "full": "assets/papers/cfl.webp",
+      "caption": "Fig. 3 · Joint detection and segmentation",
+      "kind": "figure",
+      "source": "https://arxiv.org/abs/2304.08078"
+    },
+    "pdf": "https://arxiv.org/pdf/2304.08078",
+    "status": "published"
   },
   {
     "title": "Defeating DeepFakes via Adversarial Visual Reconstruction",
     "authors": "Ziwen He, Wei Wang, Weinan Guan, Jing Dong, Tieniu Tan",
     "venue": "ACM International Conference on Multimedia (ACM MM), pp. 2464–2472, 2022.",
     "year": 2022,
-    "url": "https://doi.org/10.1145/3503161.3547923"
+    "url": "https://doi.org/10.1145/3503161.3547923",
+    "id": "avr",
+    "badge": "ACM MM",
+    "topic": "Proactive defense",
+    "summary": "Adversarial search in latent face space reconstructs visually faithful images designed to resist subsequent DeepFake manipulation.",
+    "figure": {
+      "image": "assets/papers/avr.svg",
+      "full": "assets/papers/avr.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://doi.org/10.1145/3503161.3547923"
+    },
+    "status": "published"
   },
   {
     "title": "Defending Against Deepfakes with Ensemble Adversarial Perturbation",
     "authors": "Weinan Guan, Ziwen He, Wei Wang, Jing Dong, Bo Peng",
     "venue": "International Conference on Pattern Recognition (ICPR), pp. 1952–1958, 2022.",
     "year": 2022,
-    "url": "https://doi.org/10.1109/ICPR56361.2022.9956501"
+    "url": "https://doi.org/10.1109/ICPR56361.2022.9956501",
+    "id": "ensemble",
+    "badge": "ICPR",
+    "topic": "Proactive defense",
+    "summary": "Ensemble adversarial perturbations protect source images against multiple facial manipulation models.",
+    "figure": {
+      "image": "assets/papers/ensemble.svg",
+      "full": "assets/papers/ensemble.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://doi.org/10.1109/ICPR56361.2022.9956501"
+    },
+    "status": "published"
   },
   {
     "title": "Robust Face-Swap Detection Based on 3D Facial Shape Information",
     "authors": "Weinan Guan, Wei Wang, Jing Dong, Bo Peng, Tieniu Tan",
     "venue": "CAAI International Conference on Artificial Intelligence (CICAI), pp. 404–415, 2022.",
     "year": 2022,
-    "url": "https://doi.org/10.1007/978-3-031-20497-5_33"
+    "url": "https://doi.org/10.1007/978-3-031-20497-5_33",
+    "id": "shape",
+    "badge": "CICAI",
+    "topic": "3D forensics",
+    "summary": "Uses 3D facial shape information to authenticate face videos and detect identity inconsistencies introduced by face swapping.",
+    "figure": {
+      "image": "assets/papers/shape-thumb.webp",
+      "full": "assets/papers/shape.webp",
+      "caption": "Fig. 1 · 3D facial shape authentication pipeline",
+      "kind": "figure",
+      "source": "https://doi.org/10.1007/978-3-031-20497-5_33"
+    },
+    "status": "published"
   },
   {
     "title": "A Recognition Method Based on Improved Watershed Segmentation Algorithm for Copper Flotation Conditions",
     "authors": "Shu Wang, Yi Li, Xiaohui Zhai, Weinan Guan",
     "venue": "Chinese Automation Congress (CAC), pp. 224–231, 2019.",
     "year": 2019,
-    "url": "https://doi.org/10.1109/CAC48633.2019.8996251"
+    "url": "https://doi.org/10.1109/CAC48633.2019.8996251",
+    "id": "copper",
+    "badge": "CAC",
+    "topic": "Industrial vision",
+    "summary": "An improved watershed segmentation method supports visual recognition of copper flotation conditions.",
+    "figure": {
+      "image": "assets/papers/copper.svg",
+      "full": "assets/papers/copper.svg",
+      "caption": "Concept schematic · a visual summary of the research, not a figure from the paper",
+      "kind": "schematic",
+      "source": "https://doi.org/10.1109/CAC48633.2019.8996251"
+    },
+    "status": "published"
   }
 ]
